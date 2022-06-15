@@ -1,2 +1,1 @@
-# Exploratory_Data_Analysis
-Exploratory Data Analysis Notebook.
+Important topics of Statistics for Data Science.
